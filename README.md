@@ -15,7 +15,7 @@ This is a simple Tic Tac Toe game app built using Jetpack Compose. The app allow
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/tictactoe.git
+    git clone https://github.com/Ashking1956/Tic-Tac-Toe.git
     ```
 
 2. Open the project in Android Studio.
